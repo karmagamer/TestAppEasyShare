@@ -13,6 +13,7 @@ blaze-tools@1.0.3
 boilerplate-generator@1.0.3
 callback-hook@1.0.3
 check@1.0.5
+chrismbeckett:toastr@2.1.2_1
 cmather:handlebars-server@0.2.0
 coffeescript@1.0.6
 cunneen:mailgun@0.9.1
@@ -37,6 +38,7 @@ iron:location@1.0.9
 iron:middleware-stack@1.0.9
 iron:router@1.0.9
 iron:url@1.0.9
+joshowens:shareit@0.3.1
 jquery@1.11.3_2
 json@1.0.3
 launch-screen@1.0.2
@@ -44,6 +46,7 @@ less@1.0.14
 livedata@1.0.13
 localstorage@1.0.3
 logging@1.0.7
+lukemadera:social-share@1.0.1
 matb33:collection-hooks@0.8.0
 meteor@1.1.6
 meteor-platform@1.2.2
@@ -68,6 +71,9 @@ sha@1.0.3
 softwarerero:accounts-t9n@1.0.9
 spacebars@1.0.6
 spacebars-compiler@1.0.6
+spiderable@1.0.7
+splendido:accounts-emails-field@1.2.0
+splendido:accounts-meld@1.3.1
 srp@1.0.3
 templating@1.1.1
 tracker@1.0.7
